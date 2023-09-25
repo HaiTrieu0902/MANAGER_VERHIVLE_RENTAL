@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MANAGER_VERHIVLE_RENTAL", "MANAGER_VERHIVLE_RENTAL\MANAGER_VERHIVLE_RENTAL.csproj", "{023DB59F-7B5D-43C8-A881-62BF72C9DCFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{023DB59F-7B5D-43C8-A881-62BF72C9DCFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{023DB59F-7B5D-43C8-A881-62BF72C9DCFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{023DB59F-7B5D-43C8-A881-62BF72C9DCFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{023DB59F-7B5D-43C8-A881-62BF72C9DCFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F34BE961-A94B-40A7-ACB0-DFF7710FAA27}
+	EndGlobalSection
+EndGlobal
